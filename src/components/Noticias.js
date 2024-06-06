@@ -20,7 +20,7 @@ function Noticias() {
                         <p>
                             {' '}Fuel Wars. Rol en vivo apocalíptico{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -31,7 +31,7 @@ function Noticias() {
                         <p>
                             {' '}Unión. Vientos de progreso. Rol en vivo medieval fantástico-steampunk{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -45,7 +45,7 @@ function Noticias() {
                         <p>
                             {' '}Entrenamiento en El Tomillar (El Escorial){' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://www.instagram.com/p/C5gHkw5tmEZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Cuervos del Alba</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://www.instagram.com/p/C5gHkw5tmEZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Cuervos del Alba</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -57,7 +57,7 @@ function Noticias() {
                         <p>
                             {' '}Entrenamiento en El Tomillar (El Escorial){' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://www.instagram.com/p/C6tcStutQmh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Cuervos del Alba</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://www.instagram.com/p/C6tcStutQmh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Cuervos del Alba</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -69,7 +69,7 @@ function Noticias() {
                         <p>
                             {' '}Reinos Enfrentados IX. Wargame{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -81,7 +81,7 @@ function Noticias() {
                         <p>
                             {' '}Omnia. Tierras de Sangre. Wargame{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://www.asociacionaequilibrium.org/">Asociación Æquilibrium</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://www.asociacionaequilibrium.org/">Asociación Æquilibrium</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -93,7 +93,7 @@ function Noticias() {
                         <p>
                             {' '}Reinos Enfrentados VIII. Wargame{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -105,7 +105,7 @@ function Noticias() {
                         <p>
                             {' '}Unión. Sombras del pasado. Rol en vivo medieval fantástico-steampunk{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -117,7 +117,7 @@ function Noticias() {
                         <p>
                             {' '}Fuel Wars. Rol en vivo apocalíptico{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -129,7 +129,7 @@ function Noticias() {
                         <p>
                             {' '}Reinos Enfrentados VII. Wargame{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a  target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -141,7 +141,7 @@ function Noticias() {
                         <p>
                             {' '}Omnia. La ruina de Val'Sacer{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://www.asociacionaequilibrium.org/">Asociación Æquilibrium</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://www.asociacionaequilibrium.org/">Asociación Æquilibrium</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>
@@ -153,7 +153,7 @@ function Noticias() {
                         <p>
                             {' '}Reinos Enfrentados VI. Wargame{' '}
                         </p>
-                        <footer className="links blockquote-footer"><a href="https://asociacioneter.org/">Asociación Éter</a></footer>
+                        <footer className="links blockquote-footer"><a target="_blank" href="https://asociacioneter.org/">Asociación Éter</a></footer>
                     </blockquote>
                 </Card.Body>
             </Card>

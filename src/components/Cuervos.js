@@ -27,7 +27,7 @@ function Cuervos() {
             <div class="escritos">
                 <p>Aquí mostramos una recopilación de los escritos sobre Vignar.</p>
                 <p> Una colección de profecías
-                    sobre sus más devotos aliados. Algunos están escritos por la mismísima pluma Gran Dios,<br /> otros han sido
+                    sobre sus más devotos aliados. Algunos están escritos por la mismísima pluma del Gran Dios,<br /> otros han sido
                     recopilados por sus hijos.
                 </p>
                 <p> Algunos están perdidos, algunos están por encontrar:</p>

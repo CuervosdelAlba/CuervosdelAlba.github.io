@@ -6,7 +6,7 @@ function Inicio() {
             <h3 className="texto2 text-center">Hijos de Vignar</h3>
             <p>Bienvenidos a la página oficial de Cuervos del Alba.</p>
             <br/>
-            <p> Somos un grupo amigos a los que nos ha juntado
+            <p> Somos un grupo de amigos a los que nos ha juntado
               una pasión compartida: el rol en vivo (<em>LARP</em>, por <em>Live Action Rol-Playing</em>, en sus
               siglas en inglés).</p>
               <br/>
