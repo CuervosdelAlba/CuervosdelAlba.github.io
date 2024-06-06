@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Jaini&family=Kalam:wght@300;400;700&family=Macondo&family=Marck+Script&family=Merriweather&family=Nanum+Pen+Script&family=Reenie+Beanie&family=Satisfy&family=Zeyada&display=swap');
+
+
+/*Todo*/
+
+body {
+  font-family: "Merriweather", serif !important;
+  background-color: #fff8dc !important;
+  margin: 0px;
+  padding: 0;
+  text-decoration: none !important;
+ 
+}
+
+p {
+  text-indent: 30px;
+  font-size: 20px;
+}
+
+.container-app {
+  margin-bottom: 200px;;
+}
+
+
+/*Barra de navegación*/
+.logo{
+  background: linear-gradient(to right, #323a50,#00134c , #323a50);
+}
+
+h1{
+  font-size: 30px !important;
+  
+}
+.cuervos-del-alba{
+  background: none;
+}
+
+.navbar-toggler-icon{
+  background-color: #ffbf00;
+  border-radius: 20%;
+}
+.navbar-bg {
+  background: linear-gradient(to right, #00134c, #323a50, #00134c);
+  
+  transition: background-color 0.3s, color 0.3s;
+  padding: 10px 0;
+}
+.navbar-brand-text {
+  font-weight: bold;
+}
+.brand-link {
+  text-decoration: none;
+
+}
+.brand-link img{
+  height: 70px;
+
+}
+.nav-link {
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 10px;
+
+}
+
+.nav-link img {
+  height: 50px;
+  
+}
+.nav-link img.cuervo{
+  width: 60px;
+}
+
+.nav-link img.yunke{
+  max-width: 45px;
+}
+
+.nav-link {
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+/*Cabeceros*/
+
+h2{
+  font-family: "Jaini", system-ui !important;
+  font-size: 60px !important;
+  margin-top: 50px !important;
+  margin-bottom: 30px !important;
+}
+h3{
+  font-family: "Jaini", system-ui !important;
+  font-size: 40px !important;
+  margin-top: 20px !important;
+  margin-bottom: 40px !important;
+}
+
+/*Inicio*/
+
+.firma-cuervos{
+  margin-top: 40px;
+  font-family: "Marck Script", cursive;
+  font-size: 30px;
+}
+
+/*Cuervos-Sobre Vignar
+Escritos*/
+
+.libro1 {
+  font-family: "Jaini", system-ui !important;
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-color: rgba(177, 137, 91, 0.5) !important;
+}
+
+.nombre-cantar{
+  font-family: "Jaini", system-ui;
+  font-size: 30px !important;
+  margin-bottom: 50px !important;
+  text-decoration: underline;
+  text-decoration-color: rgba(177, 137, 91, 0.5);
+}
+
+.cantar{
+  text-indent: 0px;
+  font-size: 30px;
+  font-family: "Satisfy", cursive;
+}
+
+.card-subtitle {
+  font-family: "Satisfy", cursive;
+  padding-top: auto !important;
+  font-size: 20px !important;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 1rem; 
+}
+
+/*Fondo-marco*/
+
+.cantares1 {  
+  --bs-card-border-width: 5px !important;
+  border-color: rgba(177, 137, 91, 0.5) !important;
+    background:radial-gradient(ellipse at top , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top left , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 500px at bottom right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 100px 400px at 60% 60% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 200px at 60% 60% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at bottom left , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+    
+  --bs-card-bg: transparent !important;
+}
+
+.cantares2 {  
+  --bs-card-border-width: 5px !important;
+  border-color: rgba(177, 137, 91, 0.5) !important;
+  background:radial-gradient(ellipse 500px 200px at top , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse at 0 20% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse 200px 500px at bottom  , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse 100px 400px at right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse 200px 200px at right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+  radial-gradient(ellipse at bottom left , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+  --bs-card-bg: transparent !important;
+}
+.cantares3 {  
+  --bs-card-border-width: 5px !important;
+  border-color: rgba(177, 137, 91, 0.5) !important;
+  background:radial-gradient(ellipse at 70% 20% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top left , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 500px at bottom right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 100px 400px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 200px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 500px 300px at 10% 85% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at 100% 70% , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+  --bs-card-bg: transparent !important;
+}
+.cantares4 {  
+  --bs-card-border-width: 5px !important;
+  border-color: rgba(177, 137, 91, 0.5) !important;
+  background:radial-gradient(ellipse at 70% 20% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at 10% 30% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 1000px 500px at 20% 100%, rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 100px 400px at 75% 10% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 200px at 55% 60% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 500px 300px at top , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at 100% 70% , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+  --bs-card-bg: transparent !important;
+}
+
+.cantares5 {  
+  --bs-card-border-width: 5px !important;
+  background:radial-gradient(ellipse at 70% 20% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top left , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 500px at bottom right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 100px 400px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 200px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 500px 300px at 10% 85% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at 100% 70% , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+  --bs-card-bg: transparent !important;
+}
+.cantares6 {  
+  --bs-card-border-width: 5px !important;
+  background:radial-gradient(ellipse at 70% 20% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top left , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at top right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 500px at bottom right , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 100px 400px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 200px 200px at 20% 50% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse 500px 300px at 10% 85% , rgba(177, 137, 91, 0.5)0%, transparent 31%),
+    radial-gradient(ellipse at 100% 70% , rgba(177, 137, 91, 0.5)0%, transparent 31%);
+  --bs-card-bg: transparent !important;
+}
+
+/*Eventos*/
+
+.card-header {
+  padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+  margin-bottom: 0;
+  color: var(--bs-card-cap-color);
+  background-color: rgba(177, 137, 91, 0.8) !important;
+  border-bottom: 5px solid rgba(177, 137, 91, 0.8) !important;
+  font-weight: bold;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x);
+  background-color: rgba(177, 137, 91, 0.5) !important;
+}
+
+.blockquote-footer {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+  font-size: .875em;
+  
+}
+
+a {
+  color: rgba(177, 137, 91) !important;
+}
+
+/*Galería*/
+
+.img-container {
+  display: flex;
+  height: 600px;
+  width: 100%;
+}
+.img-container img {
+  width: 0px;
+  flex-grow: 1;
+  object-fit:cover;
+  opacity: .8;
+  transition: width 0.5s ease;
+}
+
+.img-container img:hover {
+  width: 30%;
+  opacity: 1;
+  filter: contrast(120%);
+ }
+
+/*Taller*/
+
+.listados{
+  text-indent: 0px;
+}
+
+/*Enlaces*/
+
+.firma-cuervos2{
+ margin-top: 10px;
+  font-family: "Marck Script", cursive;
+  font-size: 30px;
+}
+ 
+/*Footer*/
+
+.pie-pagina{
+  height: 70px;
+  width: 100%;
+  color: rgba(177, 137, 91);
+  background: linear-gradient(to right, #323a50,#00134c , #323a50);
+  padding-top: 10px;
+  margin-top: 50px;
+  align-content: baseline;
+}
